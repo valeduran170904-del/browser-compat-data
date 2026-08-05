@@ -1,5 +1,29 @@
 # @mdn/browser-compat-data release notes
 
+## [v8.0.10](https://github.com/mdn/browser-compat-data/releases/tag/v8.0.10)
+
+August 5, 2026
+
+### Additions
+
+- `api.RTCPeerConnection.RTCPeerConnection.configuration_alwaysNegotiateDataChannels_parameter` ([#30175](https://github.com/mdn/browser-compat-data/pull/30175))
+- `api.WGSLLanguageFeatures.extension_linear_indexing` ([#30172](https://github.com/mdn/browser-compat-data/pull/30172))
+- `css.properties.white-space-trim` ([#30160](https://github.com/mdn/browser-compat-data/pull/30160))
+- `css.properties.white-space-trim.discard-after` ([#30160](https://github.com/mdn/browser-compat-data/pull/30160))
+- `css.properties.white-space-trim.discard-before` ([#30160](https://github.com/mdn/browser-compat-data/pull/30160))
+- `css.properties.white-space-trim.discard-inner` ([#30160](https://github.com/mdn/browser-compat-data/pull/30160))
+- `css.properties.white-space-trim.none` ([#30160](https://github.com/mdn/browser-compat-data/pull/30160))
+- `css.properties.wrap-inside` ([#30160](https://github.com/mdn/browser-compat-data/pull/30160))
+- `css.properties.wrap-inside.auto` ([#30160](https://github.com/mdn/browser-compat-data/pull/30160))
+- `css.properties.wrap-inside.avoid` ([#30160](https://github.com/mdn/browser-compat-data/pull/30160))
+
+### Statistics
+
+- 5 contributors have changed 5 files with 101 additions and 29 deletions in 6 commits ([`next...v8.0.10`](https://github.com/mdn/browser-compat-data/compare/next...v8.0.10))
+- 20,267 total features
+- 1,264 total contributors
+- 5,713 total stargazers
+
 ## [v8.0.9](https://github.com/mdn/browser-compat-data/releases/tag/v8.0.9)
 
 August 3, 2026
